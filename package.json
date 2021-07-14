@@ -9,6 +9,7 @@
     "url": "https://github.com/Zilliqa/Zilliqa-JavaScript-Library/issues"
   },
   "version" : "3.0.0",
+  "name" : "@zilliqa-js/zilliqa",
   "private": true,
   "license": "GPL-3.0",
   "scripts": {
